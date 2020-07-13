@@ -1,21 +1,9 @@
 # README #
 
-This README would normally document whatever steps are necessary to get your application up and running.
-
-### What is this repository for? ###
-
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
-
-### How do I get set up? ###
-
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+Steps :
+1.) Create a database name my_database.sql and V1_Create_tables.sql
+2.) Download Zip file and extract in local directory.
+3.) Run in netbeans.
 
 ### Docker Compose
 
